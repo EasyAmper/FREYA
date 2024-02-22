@@ -4,7 +4,8 @@
 
 Ссылка на видео: https://youtu.be/RuGHt_fUTYs 
 
-![image](https://github.com/EasyAmper/project_FREYA/assets/101988287/5e9fe95a-7ee1-43d5-96ef-078978e80691)
+![image](https://github.com/EasyAmper/FREYA/assets/101988287/3a868938-ca93-4386-802b-aa0899c07406)
+
 
 
 Почти каждый скетч имеет описание в начале.
